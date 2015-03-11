@@ -9,3 +9,4 @@
 echo "hello";
 echo "test2";
 echo "test5";
+echo "test6";
